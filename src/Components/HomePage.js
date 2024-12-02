@@ -14,7 +14,7 @@ const HomePage = () => {
       {/* Hero Section */}
       <Box
         sx={{
-          backgroundImage: `url('https://img.freepik.com/free-photo/people-festival_1160-736.jpg?t=st=1733035401~exp=1733039001~hmac=a48d9bdfd6e0fd397e6747963aac7ed3e0d08a281447d3547bfd423495290f6c&w=996')`,
+          backgroundImage: `url('https://img.freepik.com/free-photo/people-festival_1160-736.jpg?t=st=1733140693~exp=1733144293~hmac=29c2b15b0286d05d869303729364d430a0c672a51338044593d1395c0e498f07&w=996')`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           height: "90vh",
