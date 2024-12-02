@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": "1463",
+      "username": "raaji",
+      "email": "rajeshwaripatlolla3@gmail.com",
+      "password": "1512",
+      "role": "Musician",
+      "avatar": "blob:http://localhost:3000/d47b0db7-9f02-44c4-b1db-ca53aaf0bc4c",
+      "preferences": "Musian"
+    },
+    {
+      "id": "b900",
+      "username": "Mahi reddy",
+      "email": "reddyraaji2@gmail.com",
+      "password": "123456",
+      "role": "Listener",
+      "musicalPreferences": "Pop",
+      "musicalPreferencesOther": "",
+      "notificationsEnabled": true,
+      "avatar": "blob:http://localhost:3000/278d7c71-a056-4801-83bb-bdade09c252a"
+    },
+    {
+      "id": "0e79",
+      "username": "patlolla",
+      "email": "patlolla@gmail.com",
+      "password": "123",
+      "role": "Conductor",
+      "musicalPreferences": "Rock",
+      "musicalPreferencesOther": "",
+      "notificationsEnabled": true,
+      "avatar": null
+    },
+    {
+      "id": "6363",
+      "username": "Nandu",
+      "email": "nandu@gmail.com",
+      "password": "1234",
+      "role": "Listener",
+      "musicalPreferences": "Hip-Hop",
+      "musicalPreferencesOther": "",
+      "notificationsEnabled": true,
+      "avatar": "https://via.placeholder.com/150",
+      "preferences": "ok"
+    }
+  ]
+}

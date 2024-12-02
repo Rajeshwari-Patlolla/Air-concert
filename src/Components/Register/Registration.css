@@ -1,0 +1,101 @@
+/* Container */
+.register-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Title */
+  .register-title {
+    font-size: 1.8rem;
+    text-align: center;
+    color: #333;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  /* Form */
+  .register-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  /* Form Group */
+  .form-group {
+    text-align: left;
+  }
+  
+  .form-group label {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 5px;
+    display: block;
+  }
+  
+  .form-group input,
+  .form-group select,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  .form-group input[type="file"] {
+    padding: 5px;
+  }
+  
+  .form-group input:focus,
+  .form-group select:focus,
+  .form-group textarea:focus {
+    border-color: #ffaa00;
+    box-shadow: 0 0 4px rgba(255, 170, 0, 0.5);
+  }
+  
+  .inline-label {
+    margin-left: 8px;
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  /* Button */
+  .register-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #ffaa00;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .register-button:hover {
+    background-color: #ff7700;
+  }
+  
+  /* Login Link */
+  .login-link {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .login-link a {
+    color: #ffaa00; /* Matching the theme color */
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .login-link a:hover {
+    color: #ff7700; /* Darker shade for hover */
+    text-decoration: underline;
+  }
+  
