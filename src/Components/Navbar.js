@@ -70,9 +70,9 @@ const AppNavbar = () => {
           sx={{
             fontWeight: "bold",
             cursor: "pointer",
-            color: mode === "dark" ? "#bb86fc" : "#1976d2", // Dynamic color for the logo
+            color: mode === "dark" ? "#bb86fc" : "#1976d2", 
             '&:hover': {
-              color: mode === "dark" ? "#3700b3" : "#1565c0", // Color on hover for the logo
+              color: mode === "dark" ? "#3700b3" : "#1565c0", 
             },
           }}
         >
